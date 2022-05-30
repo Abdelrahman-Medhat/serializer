@@ -1,2 +1,2 @@
-true
+false
 Script is disabled by developer, contact at on abdelrahmanmedhat61@gmail.com , Thanks ;)
